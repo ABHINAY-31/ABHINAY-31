@@ -12,7 +12,7 @@
 <Bio 
   name= { "Abhinay Singh" }
   course = { "BE CSE" }
-  year = {2}
+  year = {3}
   college= { "Chandigarh University, Punjab" } 
 />
 ```
@@ -29,6 +29,12 @@ cout<<"Passionate "<< "Competitive Coding" <<endl;
 print(f"Country : {India}")
 ```
 ```js
+console.log(`Get Set Code !!!`);
+```
+```Java
+console.log(`Get Set Code !!!`);
+```
+```React
 console.log(`Get Set Code !!!`);
 ```
 ------------------
