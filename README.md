@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Abhinay%20Singh&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=Abhinay%20Singh&fontSize=90)
 ### Hey <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 👋
 ------------------
  
