@@ -31,12 +31,6 @@ print(f"Country : {India}")
 ```js
 console.log(`Get Set Code !!!`);
 ```
-```Java
-console.log(`Get Set Code !!!`);
-```
-```React
-console.log(`Get Set Code !!!`);
-```
 ------------------
 
 
