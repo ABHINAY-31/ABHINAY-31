@@ -1,6 +1,6 @@
-![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/w1200-h630-p-k-no-nu/image1.gif)
+![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/w1200-h400-p-k-no-nu/image1.gif)
 <h1 align="center">Hi 👋, I'm Abhinay Singh</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGU2NDRlZDViMGM4ZTYzYTA2Yzc3MDM3YjFlOGIyMWViNjc1OWE4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```js
@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on [Blood Bank Locator](https://github.com/ABHINAY-31/web-app)
 
-- 🌱 I’m currently learning **React,Express,node,MongoDb**
+- 🌱 I’m currently learning **MongoDb , Android Development **
 
-- 💬 Ask me about **DSA, Android Development**
+- 💬 Ask me about **DSA , React, Express, Node**
 
 - 📫 How to reach me **abhinaysingh7457@gmail.com**
 
