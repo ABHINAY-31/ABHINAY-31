@@ -1,7 +1,7 @@
 ![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/w1200-h400-p-k-no-nu/image1.gif)
 <h1 align="center">Hi 👋, I'm Abhinay Singh</h1>
 <h3 align="center">A passionate Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGU2NDRlZDViMGM4ZTYzYTA2Yzc3MDM3YjFlOGIyMWViNjc1OWE4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="400" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGU2NDRlZDViMGM4ZTYzYTA2Yzc3MDM3YjFlOGIyMWViNjc1OWE4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 🔭 I’m currently working on [Blood Bank Locator](https://github.com/ABHINAY-31/web-app)
 
 - 🌱 I’m currently learning **React js, Node js **
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abhinaysingh7457@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BoMbui2bVDenm8n29uSDhxIGQybdNqvp/view?usp=sharing](https://drive.google.com/file/d/1BoMbui2bVDenm8n29uSDhxIGQybdNqvp/view?usp=sharing) <br/>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BoMbui2bVDenm8n29uSDhxIGQybdNqvp/view?usp=sharing](https://drive.google.com/file/d/1BoMbui2bVDenm8n29uSDhxIGQybdNqvp/view?usp=sharing) <br/>  <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -47,9 +47,8 @@
   <span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
-  <div align="center" >
-    <img align="center" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinay-31&show_icons=true&locale=en&layout=compact" alt="abhinay-31" />
-  </div>
-<div align="center" >
-  <img align="center" width="400" height="600" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinay-31&" alt="abhinay-31"/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinay-31&show_icons=true&locale=en&layout=compact" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinay-31&" height="150" alt="languages graph"  />
 </div>
